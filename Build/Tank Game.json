@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Tank Game.data.unityweb",
+"asmCodeUrl": "Tank Game.asm.code.unityweb",
+"asmMemoryUrl": "Tank Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Tank Game.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
